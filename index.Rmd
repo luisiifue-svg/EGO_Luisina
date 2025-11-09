@@ -1,0 +1,72 @@
+---
+title: "CONSULTORA L.F"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+ESTADO GENERAL DEL PROYECTO
+===========================
+
+
+
+
+
+
+
+
+
+
+
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
+
+CRONOGRAMA DE DESEMBOLSOS
+=========================
+
+* SUBCONTRATISTAS 
+* RECURSOS DE OBRA
+* RETRASOS
+
+
+|Empresa|Tarea|
+|-------:|----:|
+|Lo Bruno|Tirantes de techo|
+|El amigo|Sanitarios|
+
+
+
+GRADO DE AVANCE
+===============
+
+
+
+
